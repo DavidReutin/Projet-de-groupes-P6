@@ -3,7 +3,7 @@
 
 | Projets | Co-équipier | Co-équipier | Co-équipier |
 | ---- | ---- | ---- | ----|
-| Avenir des cités | <span style='color:green'>**Pauline**</span> | <span style='color:green'>**Renaud**</span> | <span style='color:green'>**Audrey**</span> |
+| Avenir des cités | <span style='color:green'>**Pauline**</span> | <span style='color:green'>**Renaud**</span> | <span style='color:green'>**Audrey**</span>/*Mathieu* |
 | Bienvenue au monde | <span style='color:green'>**Thom T**</span> | <span style='color: green'>**Fanny**</span> | <span style='color: orange'>*Kevin/Mathieu*</span> |
 | Distri-Formation | <span style='color:green'>**Régine**</span> | <span style='color:green'>**Valentin**</span> | <span style='color:green'>**David**</span> |
 | Effet bois et fée main | <span style='color:green'>**Coralie**</span> | <span style='color:green'>**Yves**</span> | <span style='color:green'>**Guillaume**</span> |
